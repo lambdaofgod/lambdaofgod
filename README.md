@@ -13,10 +13,13 @@
 
 ## Neural networks for searching github repositories - MSc thesis
 
+With over 500 starred repositories searching through them became cumbersome. I did a [small project for retrieval on starred repositories](https://github.com/lambdaofgod/examples-counterexamples/blob/master/notebooks/text_mining/Github_Starred_Repositories.ipynb) which looked promising, but it is hard to gauge how useful such solution would be in practice.
+
 In the thesis I use PapersWithCode data for information retrieval.
 
 PapersWithCode contains links between papers and repositories that implement them. Most repositories are tagged with at least one task like "unsupervised segmentation" or "semantic parsing".
-I proposed and built a system that uses zero-shot learning and features extracted with Graph Neural Networks from Python files and functions dependency (call) graph. 
+
+I proposed and built a system that among other things uses zero-shot learning and features extracted with Graph Neural Networks from Python files and functions dependency (call) graph. 
 
 ## Small projects
 * :mag: [search huggingface models](https://huggingface.co/spaces/lambdaofgod/huggingface_explorer)
