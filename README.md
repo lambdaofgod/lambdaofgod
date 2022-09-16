@@ -8,6 +8,7 @@
 - :book: When I need to take a rest from sitting at the computer I keep up with ML news and read about mathematics, linguistics and psychology.
 
 ## Projects
+* In deepsense.ai I worked on [TrelBERT](https://huggingface.co/deepsense-ai/trelbert) - Polish twitter BERT.
 * In [findkit](https://github.com/lambdaofgod/findkit) I put together wrappers making working with information retrieval with vector data easier.
 * :newspaper: [NewsBERT](https://github.com/lambdaofgod/pytorch_hackathon) is a RSS feeds information retrieval app that using huggingface transformers zero-shot learning feature. 
 
