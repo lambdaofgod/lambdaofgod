@@ -3,14 +3,15 @@
 - Since 2017 I work as a data scientist.
 - :office: My work experience can be found in my LinkedIn profile (Jakub Bartczuk).
 - :mortar_board: I studied Theoretical Mathematics (BSc.) and Data Science (MSc.) at University of Wrocław.
-- I am mostly focused on deep learning, especially for NLP and Computer Vision. I enjoy problems that go beyond straightforward supervised learning.
+- I am mostly focused on deep learning, especially for NLP and Computer Vision. I enjoy problems that go beyond straightforward supervised learning. Extending standard search engine methods is one of such problems.
 - In the free time I like to contribute to opensource projects.
-- :book: When I need to take a rest from sitting at the computer I keep up with ML news and read about mathematics, linguistics and psychology.
+- :book: When I need to take a rest from sitting at the computer I keep up with ML news and read about mathematics, linguistics, buddhism and psychology.
 
 ## Projects
 * In deepsense.ai I worked on [TrelBERT](https://huggingface.co/deepsense-ai/trelbert) - Polish twitter BERT.
 * In [findkit](https://github.com/lambdaofgod/findkit) I put together wrappers making working with information retrieval with vector data easier.
-* :newspaper: [NewsBERT](https://github.com/lambdaofgod/pytorch_hackathon) is a RSS feeds information retrieval app that using huggingface transformers zero-shot learning feature. 
+* :newspaper: [NewsBERT](https://github.com/lambdaofgod/pytorch_hackathon) is a RSS feeds information retrieval app that using huggingface transformers zero-shot learning feature.
+* [niph](https://github.com/lambdaofgod/niph) makes searching podcasts easier. The inspiration was [Karpathy's transcription of Lex Fridman Podcast](https://karpathy.ai/lexicap/) Currently tested with Lex Fridman podcast, but it also will work on transcriptions with similar format.
 
 ## Neural networks for searching github repositories - MSc thesis
 
