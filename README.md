@@ -23,8 +23,12 @@ PapersWithCode contains links between papers and repositories that implement the
 
 I proposed and built a system that among other things uses zero-shot learning and features extracted with Graph Neural Networks from Python files and functions dependency (call) graph. 
 
-## Small projects
+
+## 🤗 huggingface spaces 
 * :mag: [search huggingface models](https://huggingface.co/spaces/lambdaofgod/huggingface_explorer)
+* [search Lex Fridman Podcast](https://huggingface.co/spaces/lambdaofgod/search_lex_fridman_podcast) - searches on [Andrej Karpathy's transcription site](https://karpathy.ai/lexicap), can fetch precise link to timestamped entry
+
+## Small projects
 * [symmetric deep dream](https://colab.research.google.com/github/lambdaofgod/examples-counterexamples/blob/master/deepdream_with_mirroring_and_rotation.ipynb) - I added averaging over rotations to make deep dream more symmetric
 
 ## Stackexchange
