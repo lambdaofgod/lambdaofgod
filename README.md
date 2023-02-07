@@ -5,7 +5,7 @@
 - :mortar_board: I studied Theoretical Mathematics (BSc.) and Data Science (MSc.) at University of Wrocław.
 - I am mostly focused on deep learning, especially for NLP and Computer Vision. I enjoy problems that go beyond straightforward supervised learning. Extending standard search engine methods is one of such problems.
 - In the free time I like to contribute to opensource projects.
-- The languages I enjoy the most are Python and Rust.
+- The languages I enjoy the most are Python, Rust and Lisps.
 - :book: When I need to take a rest from sitting at the computer I keep up with ML news and read about mathematics, linguistics, buddhism and psychology.
 
 ## Projects
