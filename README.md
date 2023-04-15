@@ -4,9 +4,9 @@
 - :office: My work experience can be found in my LinkedIn profile (Jakub Bartczuk).
 - :mortar_board: I studied Theoretical Mathematics (BSc.) and Data Science (MSc.) at University of Wrocław.
 - I am mostly focused on deep learning, especially for NLP and Computer Vision. I enjoy problems that go beyond straightforward supervised learning. Extending standard search engine methods is one of such problems.
-- In the free time I like to contribute to opensource projects.
-- The languages I enjoy the most are Python, Rust and Lisps.
-- :book: When I need to take a rest from sitting at the computer I keep up with ML news and read about mathematics, linguistics, buddhism and psychology.
+- In the free time I like to tinker with opensource
+- The languages I enjoy the most are Python, Rust and Lisps (I use Emacs, how did you know?).
+- :book: When I need to take a rest from sitting at the computer I train martial arts and like to read about mathematics, linguistics, buddhism and psychology.
 
 ## Projects
 * In deepsense.ai I worked on [TrelBERT](https://huggingface.co/deepsense-ai/trelbert) - Polish twitter BERT.
