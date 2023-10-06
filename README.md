@@ -33,11 +33,7 @@ I proposed and built a system that among other things uses zero-shot learning an
 * [symmetric deep dream](https://colab.research.google.com/github/lambdaofgod/examples-counterexamples/blob/master/deepdream_with_mirroring_and_rotation.ipynb) - I added averaging over rotations to make deep dream more symmetric
 
 ## Stackexchange
-Apparently [I'm top 3% at cross-validated](https://stats.stackexchange.com/users/121270/jakub-bartczuk) (stackoverflow for ml/statistics).
-
-* [does PCA preserve linear separability?](https://github.com/lambdaofgod/examples-counterexamples/blob/master/notebooks/Separable%20data%20PCA%20nonseparable.ipynb)
-* [if your scikit-learn PCA fails you probably made this mistake](https://github.com/lambdaofgod/stackexchange/blob/master/cross%20validated/Digits%20PCA.ipynb)
-* [Wasserstein GAN prerequisites](https://stats.stackexchange.com/questions/384590/prerequisites-for-wasserstein-gan-autoencoder)
+[cross-validated](https://stats.stackexchange.com/users/121270/jakub-bartczuk)
 
 ## Other :eyes:
 * [Demystifying UMAP](https://github.com/lambdaofgod/texfiles/blob/master/umap_advanced_data_mining/main.pdf) - presentation for Advanced Data Mining seminar at University of Wroclaw.
