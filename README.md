@@ -6,23 +6,12 @@
 - I am mostly focused on deep learning, especially for NLP and Computer Vision. I enjoy problems that go beyond straightforward supervised learning. Extending standard search engine methods is one of such problems.
 - In the free time I like to tinker with opensource
 - The languages I enjoy the most are Elixir, Lisps (Elixir is kinda a Lisp), Rust and Python.
-- :book: When I need to take a rest from sitting at the computer I train martial arts and like to read about mathematics, linguistics, buddhism and psychology.
 
 ## Projects
 * In deepsense.ai I worked on [TrelBERT](https://huggingface.co/deepsense-ai/trelbert) - Polish twitter BERT.
 * In [findkit](https://github.com/lambdaofgod/findkit) I put together wrappers making working with information retrieval with vector data easier.
 * :newspaper: [NewsBERT](https://github.com/lambdaofgod/pytorch_hackathon) is a RSS feeds information retrieval app that using huggingface transformers zero-shot learning feature.
 * [niph](https://github.com/lambdaofgod/niph) makes searching podcasts easier. The inspiration was [Karpathy's transcription of Lex Fridman Podcast](https://karpathy.ai/lexicap/) Currently tested with Lex Fridman podcast, but it also will work on transcriptions with similar format.
-
-## Neural networks for searching github repositories - MSc thesis
-
-With over 500 starred repositories searching through them became cumbersome. I did a [small project for retrieval on starred repositories](https://github.com/lambdaofgod/examples-counterexamples/blob/master/notebooks/text_mining/Github_Starred_Repositories.ipynb) which looked promising, but it is hard to gauge how useful such solution would be in practice.
-
-In the thesis I use PapersWithCode data for information retrieval.
-
-PapersWithCode contains links between papers and repositories that implement them. Most repositories are tagged with at least one task like "unsupervised segmentation" or "semantic parsing".
-
-I proposed and built a system that among other things uses zero-shot learning and features extracted with Graph Neural Networks from Python files and functions dependency (call) graph. 
 
 
 ## 🤗 huggingface spaces 
