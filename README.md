@@ -9,7 +9,6 @@
 
 ## Projects
 * In deepsense.ai I worked on [TrelBERT](https://huggingface.co/deepsense-ai/trelbert) - Polish twitter BERT.
-* In [findkit](https://github.com/lambdaofgod/findkit) I put together wrappers making working with information retrieval with vector data easier.
 * :newspaper: [NewsBERT](https://github.com/lambdaofgod/pytorch_hackathon) is a RSS feeds information retrieval app that using huggingface transformers zero-shot learning feature.
 * [niph](https://github.com/lambdaofgod/niph) makes searching podcasts easier. The inspiration was [Karpathy's transcription of Lex Fridman Podcast](https://karpathy.ai/lexicap/) Currently tested with Lex Fridman podcast, but it also will work on transcriptions with similar format.
 
